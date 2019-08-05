@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Elephant</string>
+		<key>details</key>
+		<string>Elephants are large mammals of the family Elephantidae in the order Proboscidea..</string>
+		<key>image</key>
+		<string>elephant</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Horse</string>
+		<key>details</key>
+		<string>The horse is one of two extant subspecies of Equus ferus...</string>
+		<key>image</key>
+		<string>horse</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lion</string>
+		<key>details</key>
+		<string>he lion is a species in the family Felidae; it is a muscular, deep-chested cat with a short..</string>
+		<key>image</key>
+		<string>lion</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rabbit</string>
+		<key>details</key>
+		<string>Rabbits are small mammals in the family Leporidae of the order Lagomorpha Oryctolagus ....</string>
+		<key>image</key>
+		<string>rabbit</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tiger</string>
+		<key>details</key>
+		<string>The tiger is the largest species among the Felidae and classified in the genus Panthera...</string>
+		<key>image</key>
+		<string>tiger</string>
+	</dict>
+</array>
+</plist>
